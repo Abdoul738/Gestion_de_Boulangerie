@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Personnel_Administratif		TAR	127	nouvelle taille enregistrement : 127
+Personnel_Administratif	IdPersonnel	RUB+		IdPersonnel est une nouvelle clé
+Contrainte_Personnel_Personnel_Administratif		NWL	Personnel (idPersonnel) et Personnel_Administratif (IdPersonnel)	Nouvelle liaison entre les fichiers Personnel (idPersonnel) et Personnel_Administratif (IdPersonnel)

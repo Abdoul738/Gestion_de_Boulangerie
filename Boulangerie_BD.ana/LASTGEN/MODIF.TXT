@@ -1,0 +1,11 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Personnnel_Groupe		NFI		nouveau fichier
+Statut_Personnel		NFI		nouveau fichier
+Personnel		NFI		nouveau fichier
+Autorisation_Absence		NFI		nouveau fichier
+Autorisation_Conge		NFI		nouveau fichier
+Personnel_Administratif		NFI		nouveau fichier
+Contrainte_Personnnel_Groupe_Personnel		NWL	Personnnel_Groupe (idGroupe) et Personnel (IdGroupe)	Nouvelle liaison entre les fichiers Personnnel_Groupe (idGroupe) et Personnel (IdGroupe)
+Contrainte_Statut_Personnel_Personnel		NWL	Statut_Personnel (idStatut) et Personnel (IdStatut)	Nouvelle liaison entre les fichiers Statut_Personnel (idStatut) et Personnel (IdStatut)
+Contrainte_Personnel_Autorisation_Absence		NWL	Personnel (idPersonnel) et Autorisation_Absence (IdPersonnel)	Nouvelle liaison entre les fichiers Personnel (idPersonnel) et Autorisation_Absence (IdPersonnel)
+Contrainte_Personnel_Autorisation_Conge		NWL	Personnel (idPersonnel) et Autorisation_Conge (IdPersonnel)	Nouvelle liaison entre les fichiers Personnel (idPersonnel) et Autorisation_Conge (IdPersonnel)
