@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Personnnel_Groupe		TAR	119	nouvelle taille enregistrement : 119
+Personnnel_Groupe	Horaires	RUB+		Horaires est une nouvelle rubrique
