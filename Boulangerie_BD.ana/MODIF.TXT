@@ -1,3 +1,14 @@
-//MO005-006.TXT ANA00005 TO ANA00006
-Personnel		TAR	266	nouvelle taille enregistrement : 266
-Personnel	Civilite	RUB+		Civilite est une nouvelle rubrique
+//MO006-007.TXT ANA00006 TO ANA00007
+commis		NFI		nouveau fichier
+client_grossiste		NFI		nouveau fichier
+livreur		NFI		nouveau fichier
+vente		NFI		nouveau fichier
+commande		NFI		nouveau fichier
+client_ordinaire		NFI		nouveau fichier
+commis_client_grossiste		NFI		nouveau fichier
+Contrainte_commis_client_grossiste		NWL	commis (IDcommis) et commis_client_grossiste (IDcommis)	Nouvelle liaison entre les fichiers commis (IDcommis) et commis_client_grossiste (IDcommis)
+Contrainte_client_grossiste_commis		NWL	client_grossiste (IDclient_grossiste) et commis_client_grossiste (IDclient_grossiste)	Nouvelle liaison entre les fichiers client_grossiste (IDclient_grossiste) et commis_client_grossiste (IDclient_grossiste)
+Contrainte_commis_vente		NWL	vente (IDvente) et commis (IDvente)	Nouvelle liaison entre les fichiers vente (IDvente) et commis (IDvente)
+Contrainte_commande_livreur		NWL	commande (IDcommande) et livreur (IDcommande)	Nouvelle liaison entre les fichiers commande (IDcommande) et livreur (IDcommande)
+Contrainte_commande_client_grossiste		NWL	commande (IDcommande) et client_grossiste (IDcommande)	Nouvelle liaison entre les fichiers commande (IDcommande) et client_grossiste (IDcommande)
+Contrainte_commande_client_ordinaire		NWL	commande (IDcommande) et client_ordinaire (IDcommande)	Nouvelle liaison entre les fichiers commande (IDcommande) et client_ordinaire (IDcommande)

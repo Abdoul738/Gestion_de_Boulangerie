@@ -1,5 +1,3 @@
-//MO004-005.TXT ANA00004 TO ANA00005
-Autorisation_Absence		TAR	103	nouvelle taille enregistrement : 103
-Autorisation_Absence	DateDebut	NNR	DateAbsence	ATTENTION : la rubrique DateAbsence a pour nouveau nom DateDebut
-Autorisation_Absence	DateFin	RUB+		DateFin est une nouvelle rubrique
-Autorisation_Absence	DateJour	RUB+		DateJour est une nouvelle rubrique
+//MO005-006.TXT ANA00005 TO ANA00006
+Personnel		TAR	266	nouvelle taille enregistrement : 266
+Personnel	Civilite	RUB+		Civilite est une nouvelle rubrique
