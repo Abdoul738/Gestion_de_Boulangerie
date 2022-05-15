@@ -7,6 +7,7 @@ LOCALIZATION_UTF8=812FDF3303D144BE979CFFFA0A2083BB	Statut_Personnel	A:\APK_Proje
 LOCALIZATION_UTF8=9F541EC0DF3044678EC672283F4C6E79	Autorisation_Absence	A:\APK_Projets\Gestion_de_Boulangerie\Exe\Autorisation_Absence.fic
 LOCALIZATION_UTF8=2E5B886F4BB24DCDA4E0340A09A1D0EB	Autorisation_Conge	A:\APK_Projets\Gestion_de_Boulangerie\Exe\Autorisation_Conge.fic
 LOCALIZATION_UTF8=7C7AB215D75B4BC386831CF2B5315285	Personnel_Administratif	A:\APK_Projets\Gestion_de_Boulangerie\Exe\Personnel_Administratif.fic
+<<<<<<< HEAD
 LOCALIZATION_UTF8=1BF07D6EBE4E4F54A5CE99A0BDCA17E9	Fournisseur	A:\APK_Projets\Gestion_de_Boulangerie\Exe\Fournisseur.fic
 LOCALIZATION_UTF8=1CA91E10FA974DA480D0C0AB2A2B8BC1	ProduitBrut	A:\APK_Projets\Gestion_de_Boulangerie\Exe\ProduitBrut.fic
 LOCALIZATION_UTF8=635C6FBFCE5749028412574796EDB03F	MenuProduits	A:\APK_Projets\Gestion_de_Boulangerie\Exe\MenuProduits.fic
@@ -21,3 +22,13 @@ LOCALIZATION_UTF8=1FA621CEE5A04AE5B38A7B7B84D972AF	Commande	A:\APK_Projets\Gesti
 LOCALIZATION_UTF8=F41D3A6E86C64BE6BDAC17B31E4F6A27	VenteComptoir	A:\APK_Projets\Gestion_de_Boulangerie\Exe\VenteComptoir.fic
 LOCALIZATION_UTF8=2A787E93466E453285CF42DD3ABB503A	VenteA150	A:\APK_Projets\Gestion_de_Boulangerie\Exe\VenteA150.fic
 LOCALIZATION_UTF8=FAD3E46024F143EEB4DF7921ADAB467E	Livraison	A:\APK_Projets\Gestion_de_Boulangerie\Exe\Livraison.fic
+=======
+LOCALIZATION_UTF8=0BFBB2D7C6C5433C9A3A9E02BEAEB4E4	Personnnel_Groupe	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\Personnnel_Groupe.fic
+LOCALIZATION_UTF8=812FDF3303D144BE979CFFFA0A2083BB	Statut_Personnel	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\Statut_Personnel.fic
+LOCALIZATION_UTF8=5C5BA5C95F9243B9A3FA41B16C957DE0	Personnel	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\Personnel.fic
+LOCALIZATION_UTF8=7C7AB215D75B4BC386831CF2B5315285	Personnel_Administratif	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\Personnel_Administratif.fic
+LOCALIZATION_UTF8=9F541EC0DF3044678EC672283F4C6E79	Autorisation_Absence	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\Autorisation_Absence.fic
+LOCALIZATION_UTF8=2E5B886F4BB24DCDA4E0340A09A1D0EB	Autorisation_Conge	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\Autorisation_Conge.fic
+LOCALIZATION_UTF8=2CAB525A49424EF588E1934EAF98CF34	commis	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\commis.fic
+LOCALIZATION_UTF8=57629B749D704DCEBC596D034BE84885	vente	C:\Users\JuveGeek\Downloads\Gestion_de_Boulangerie-master\Gestion_de_Boulangerie-master\Exe\vente.fic
+>>>>>>> cc269c862c3679c5ef1f3a7dbec51a0e15ba9854

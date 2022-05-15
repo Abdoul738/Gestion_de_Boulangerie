@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 //MO025-026.TXT ANA00025 TO ANA00026
 Livraison		NFI		nouveau fichier
+=======
+//MO005-006.TXT ANA00005 TO ANA00006
+Personnel		TAR	266	nouvelle taille enregistrement : 266
+Personnel	Civilite	RUB+		Civilite est une nouvelle rubrique
+>>>>>>> cc269c862c3679c5ef1f3a7dbec51a0e15ba9854
