@@ -1,0 +1,5 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+StockProduitBrut		TAR	35	nouvelle taille enregistrement : 35
+StockProduitBrut	IDProduitBrut1	RUB+		IDProduitBrut1 est une nouvelle clé
+StockProduitBrut	NomProduitBrut	RUB-		la rubrique NomProduitBrut est supprimée
+Contrainte_ProduitBrut_StockProduitBrut		NWL	ProduitBrut (IDProduitBrut) et StockProduitBrut (IDProduitBrut1)	Nouvelle liaison entre les fichiers ProduitBrut (IDProduitBrut) et StockProduitBrut (IDProduitBrut1)

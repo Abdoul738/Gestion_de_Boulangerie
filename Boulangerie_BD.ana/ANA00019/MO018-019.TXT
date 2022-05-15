@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Commande		NFI		nouveau fichier
+Contrainte_ProduitFinis_Commande		NWL	ProduitFinis (IDProduitFinis) et Commande (IDProduitFinis)	Nouvelle liaison entre les fichiers ProduitFinis (IDProduitFinis) et Commande (IDProduitFinis)
+Contrainte_Client_Commande		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)

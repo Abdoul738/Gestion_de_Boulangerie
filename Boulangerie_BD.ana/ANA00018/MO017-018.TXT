@@ -1,0 +1,4 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+CategorieClient		NFI		nouveau fichier
+Client		NFI		nouveau fichier
+Contrainte_CategorieClient_Client		NWL	CategorieClient (IDCategorieClient) et Client (IDCategorieClient)	Nouvelle liaison entre les fichiers CategorieClient (IDCategorieClient) et Client (IDCategorieClient)

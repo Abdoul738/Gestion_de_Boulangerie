@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Commande		TAR	150	nouvelle taille enregistrement : 150
+Commande	NoCommande	RUB+		NoCommande est une nouvelle clé

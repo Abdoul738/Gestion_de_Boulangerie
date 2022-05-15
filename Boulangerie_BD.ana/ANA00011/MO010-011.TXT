@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+DestockageProduitBrut		NFI		nouveau fichier
+Contrainte_ProduitBrut_DestockageProduitBrut		NWL	ProduitBrut (IDProduitBrut) et DestockageProduitBrut (IDProduitBrut)	Nouvelle liaison entre les fichiers ProduitBrut (IDProduitBrut) et DestockageProduitBrut (IDProduitBrut)
+Contrainte_Personnnel_Groupe_DestockageProduitBrut		NWL	Personnnel_Groupe (idGroupe) et DestockageProduitBrut (IdGroupe)	Nouvelle liaison entre les fichiers Personnnel_Groupe (idGroupe) et DestockageProduitBrut (IdGroupe)

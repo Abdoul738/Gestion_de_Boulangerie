@@ -1,0 +1,10 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+ProduitFinis		TAR	31	nouvelle taille enregistrement : 31
+ProduitFinis	IDMenuProduits	RUB+		IDMenuProduits est une nouvelle clé
+ProduitFinis	NomProduit	RUB-		la rubrique NomProduit est supprimée
+ProduitBrut		TAR	78	nouvelle taille enregistrement : 78
+ProduitBrut	IDFournisseur	RUB+		IDFournisseur est une nouvelle clé
+MenuProduits		NFI		nouveau fichier
+Produits		FIC-	Produits	Fichier supprimé Produits
+Contrainte_MenuProduits_ProduitFinis		NWL	MenuProduits (IDMenuProduits) et ProduitFinis (IDMenuProduits)	Nouvelle liaison entre les fichiers MenuProduits (IDMenuProduits) et ProduitFinis (IDMenuProduits)
+Contrainte_Fournisseur_ProduitBrut		NWL	Fournisseur (IDFournisseur) et ProduitBrut (IDFournisseur)	Nouvelle liaison entre les fichiers Fournisseur (IDFournisseur) et ProduitBrut (IDFournisseur)

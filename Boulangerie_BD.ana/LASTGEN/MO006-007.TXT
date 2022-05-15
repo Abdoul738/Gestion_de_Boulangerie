@@ -1,0 +1,4 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Autorisation_Conge		TAR	103	nouvelle taille enregistrement : 103
+Autorisation_Conge	DateDebut	RUB+		DateDebut est une nouvelle rubrique
+Autorisation_Conge	DateFin	RUB+		DateFin est une nouvelle rubrique

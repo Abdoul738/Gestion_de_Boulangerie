@@ -1,0 +1,12 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+ProduitFinis		TAR	70	nouvelle taille enregistrement : 70
+ProduitFinis	NomProduit	RUB+		NomProduit est une nouvelle rubrique
+ProduitFinis	ReportStock	RUB-		la rubrique ReportStock est supprimée
+ProduitFinis	ProduitInvendable	RUB-		la rubrique ProduitInvendable est supprimée
+ProduitFinis	IDMenuProduits	RUB-		la rubrique IDMenuProduits est supprimée
+HistoriqueProduction		TAR	100	nouvelle taille enregistrement : 100
+HistoriqueProduction	IdGroupe	RUB+		IdGroupe est une nouvelle clé
+HistoriqueProduction	IDMenuProduits	RUB+		IDMenuProduits est une nouvelle clé
+Contrainte_MenuProduits_HistoriqueProduction		NWL	MenuProduits (IDMenuProduits) et HistoriqueProduction (IDMenuProduits)	Nouvelle liaison entre les fichiers MenuProduits (IDMenuProduits) et HistoriqueProduction (IDMenuProduits)
+Contrainte_Personnnel_Groupe_HistoriqueProduction		NWL	Personnnel_Groupe (idGroupe) et HistoriqueProduction (IdGroupe)	Nouvelle liaison entre les fichiers Personnnel_Groupe (idGroupe) et HistoriqueProduction (IdGroupe)
+Contrainte_MenuProduits_ProduitFinis		DEL	MenuProduits (IDMenuProduits) et ProduitFinis (IDMenuProduits)	Liaison supprimée entre les fichiers MenuProduits (IDMenuProduits) et ProduitFinis (IDMenuProduits)

@@ -1,0 +1,4 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+VenteComptoir		TAR	145	nouvelle taille enregistrement : 145
+VenteComptoir	NomProduit	RUB+		NomProduit est une nouvelle rubrique
+VenteComptoir	NomClient	RUB+		NomClient est une nouvelle rubrique

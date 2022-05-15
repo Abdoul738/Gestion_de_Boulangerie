@@ -1,0 +1,5 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+VenteComptoir		TAR	155	nouvelle taille enregistrement : 155
+VenteComptoir	DateVente	RUB+		DateVente est une nouvelle rubrique
+VenteA150		NFI		nouveau fichier
+Contrainte_ProduitFinis_VenteA150		NWL	ProduitFinis (IDProduitFinis) et VenteA150 (IDProduitFinis)	Nouvelle liaison entre les fichiers ProduitFinis (IDProduitFinis) et VenteA150 (IDProduitFinis)
